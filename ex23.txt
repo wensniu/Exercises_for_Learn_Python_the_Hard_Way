@@ -1,0 +1,29 @@
+three skills:
+1. Finding Python source for things you need
+2. Reading through the code and looking for files
+3. Trying to understand code you find
+
+steps:
+
+1. websites:
+bitbucket.org
+github.com
+gitorious.org
+and serch for "Python"
+
+2. pick a random project and click on it
+
+3. click on the Source tab and browse through the list of files and directories
+ until you find a .py file.
+
+4. Start at the top and read through the code, taking notes on what you think
+ it does
+
+5. if any symbol or strange words seem to interest you, write them down to
+ research later
+
+Other websites:
+gihub.com
+launchpad.net
+gitorious.org
+sourceforge.net
