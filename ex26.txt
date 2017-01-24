@@ -1,0 +1,3 @@
+# Congratulations, Take a Test
+The original file is ex26ORI.py
+The fixed file is ex26.py

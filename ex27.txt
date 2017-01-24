@@ -1,0 +1,12 @@
+Memorizing Logic
+
+The Truth Terms
+and
+or
+not
+!=
+==
+>=
+<=
+True
+False
