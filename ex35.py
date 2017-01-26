@@ -8,13 +8,13 @@ def gold_room():
     if "0" in choice or "1" in choice:
         how_much =int(choice)
     else:
-        dead("Man, learn to type a number.")
+        dead("Man, learn to type a number.")#If this else should never run beacause it doesn't make sense, then you must use a die function in the else that prints out an error message and dies
 
     if how_much<50:
         print "Nice, you're not greedy, you win!"
         exit(0)
     else:
-        dead("You greedy bastard!")
+        dead("You greedy bastard!")#This is a die function
 
 def bear_room():
     print "There is a bear here."
